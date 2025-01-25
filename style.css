@@ -1,0 +1,80 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #b71c1c; /* Deep red for wine theme */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Hero Section */
+.hero {
+    background: #4e342e;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.hero .subtitle {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.btn {
+    background: #d81b60;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #c2185b;
+}
+
+/* Section Styling */
+.section {
+    margin: 40px 0;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+img.rounded {
+    border-radius: 10%;
+}
+img.responsive {
+    max-width: 100%;
+    display:block;
+    margin: 0 auto;
+    height: auto;
+    border-radius: 15px;
+}
+
+/* Footer */
+.footer {
+    background: #4e342e;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.btn-footer {
+    color: #d81b60;
+    text-decoration: none;
+    font-weight: bold;
+}
