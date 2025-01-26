@@ -89,6 +89,16 @@ header.masthead {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+a {
+    color: #C77C0E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #7B4A3A;
+    text-decoration: underline;
+}
+
 .intro {
     text-align: center;
     margin-bottom: 30px;
