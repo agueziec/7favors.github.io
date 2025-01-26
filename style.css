@@ -1,12 +1,6 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #FFFFFF;
-    color: #333;
-}
+
 header {
-    background-color: #7B4A3A;
+    background-color: #c1451c;
     color: #FFFFFF;
     padding: 20px;
     text-align: center;
@@ -28,7 +22,7 @@ img.responsive {
 }
 
 h1, h2 {
-    color: #7B4A3A;
+    color: #b69f98;
 }
 .section {
     margin-bottom: 20px;
@@ -63,7 +57,7 @@ body {
 }
 
 header.masthead {
-    background-color: #7B4A3A;
+    background-color: #c14c26;
     color: #fff;
     text-align: center;
     padding: 40px 20px;
@@ -95,7 +89,7 @@ a {
 }
 
 a:hover {
-    color: #7B4A3A;
+    color: #dacac4;
     text-decoration: underline;
 }
 
