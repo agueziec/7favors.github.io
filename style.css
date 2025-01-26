@@ -19,6 +19,14 @@ header {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     border-radius: 8px;
 }
+img.responsive {
+    max-width: 100%;
+    display:block;
+    margin: 0 auto;
+    height: auto;
+    border-radius: 15px;
+}
+
 h1, h2 {
     color: #7B4A3A;
 }
